@@ -1,3 +1,3 @@
 <script tupe="text/javascript">
-location="https://site.site/";
+location="https://any.site/";
 </script>
